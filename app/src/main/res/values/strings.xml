@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="due_date_hint">Due Date</string>
+    <string name="save">Save</string>
+</resources>
